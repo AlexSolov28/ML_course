@@ -5,6 +5,7 @@
 
 [Страница курса](https://github.com/ugapanyuk/ml_course_2022/wiki/COURSE_TMO)
 
-LAB - Лабораторные работы 
+[Видеотрансляции лекций]((https://youtube.com/playlist?list=PL9vFTJYocFHomDo2q7Cdl6KfsheYJQUdh))
 
+LAB - Лабораторные работы 
 RK - Рубежные контроли
